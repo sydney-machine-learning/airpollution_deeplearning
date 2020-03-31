@@ -1,0 +1,10 @@
+
+Dataset: Ringnorm - DELVE
+
+Norm-1 valError 0.0015
+
+Norm-2 valError 0.0015
+
+DeepInsight valErr: 0.0015
+
+DeepInsight accuracy   0.99
