@@ -3,8 +3,8 @@ Deep learning for prediction of air pollution trend for four monitoring stations
 
 The experiments feature different deep learning models such as FNN and LSTM based models. 
 The experiments also feature multivariate and univariate analysis using different training strategies 
-with Bi-LSTM model (best) for multistep ahead prediction of PM2.5 values. The experiments further provide 1 month
-ahead forecast of PM2.5 values with uncertainity quantification.
+with Bi-LSTM model (best) for multistep ahead prediction of PM2.5 values. The experiments further provide one month
+ahead forecast of PM2.5 values with uncertainty quantification.
 
 ## Code
 We have a unified code for all four stations with proper comments.
